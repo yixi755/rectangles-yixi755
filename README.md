@@ -2,6 +2,7 @@
 ##📐 Projecte: Aplicació de Rectangles en Java
 
 Una activitat per aprendre POO, validacions, JUnit i bones pràctiques
+
 ##🎯 Objectiu del projecte
 
 Aquest projecte consisteix en desenvolupar una classe Rectangle amb funcionalitats avançades:
